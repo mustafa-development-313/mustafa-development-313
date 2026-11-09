@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Your MUSTAFA</h1>
 
 <h3 align="center">
   Passionate Developer | Software Engineer
@@ -17,19 +17,19 @@
 - 🌱 Learning new technologies every day
 - 💡 Interested in software development
 - 🎯 Goal: Become a professional developer
-- 📫 Contact me: your.email@example.com
+- 📫 Contact me: mr8694037@gmail.com
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  HTML | CSS | JavaScript | Python | React | Git | GitHub
+  HTML | CSS | JavaScript | Git | GitHub
 </p>
 
 ## 🚀 Featured Projects
 
-- Project One – Short project description
-- Project Two – Short project description
-- Project Three – Short project description
+- Project One – Personal Portfolio Website
+- Project Two – TaskFlow – Task Management App 
+- Project Three – WeatherWise – Weather Forecast App 
 
 ## 📊 GitHub Statistics
 
@@ -37,9 +37,8 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Website URL
-- Email: Your Email
+- Portfolio: https://mustafa-development-313.github.io/MY-PORTFOLIO/
+- Email: mr8694037@gmail.com
 
 ---
 <p align="center">
