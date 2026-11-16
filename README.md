@@ -1,4 +1,5 @@
 
+
 <!--
 ========================================================
                   MUSTAFA.DEV
@@ -179,9 +180,9 @@ Build. Learn. Innovate. Create.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafa-development-313&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080B14&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafa-development-313&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080B14&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&cache_seconds=86400" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-development-313&layout=compact&hide_border=true&bg_color=080B14&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Top programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-development-313&layout=compact&hide_border=true&bg_color=080B14&title_color=38BDF8&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top programming languages"/>
 
 <br/><br/>
 
@@ -197,7 +198,9 @@ Build. Learn. Innovate. Create.
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mustafa-development-313&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+<a href="https://github.com/mustafa-development-313?tab=achievements">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACHIEVEMENTS-080B14?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub achievements"/>
+</a>
 
 </div>
 
@@ -296,7 +299,7 @@ A frontend practice project inspired by a modern restaurant website.
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=38BDF8&text_color=FFFFFF" alt="WakaTime coding statistics"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=38BDF8&text_color=FFFFFF&cache_seconds=86400" alt="WakaTime coding statistics"/>
 
 </div>
 
@@ -308,7 +311,9 @@ A frontend practice project inspired by a modern restaurant website.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-development-313&bg_color=080B14&color=38BDF8&line=2563EB&point=A78BFA&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" alt="GitHub activity graph"/>
+<a href="https://github.com/mustafa-development-313">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTION_ACTIVITY-080B14?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub contribution activity"/>
+</a>
 
 </div>
 
